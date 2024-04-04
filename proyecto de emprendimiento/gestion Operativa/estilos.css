@@ -1,0 +1,40 @@
+table, th,td{
+    border: 1px solid black;
+    border-collapse:collapse;
+   
+    font-style: italic;
+}
+.col1{
+    width:5%;
+}
+.col2{
+    width:15%;
+}
+th, td{
+    padding: 15px;
+}
+.declaracion{
+    width: 60%
+}
+th{
+    color: blue;
+    font-size: 20px;
+}
+
+@font-face {
+    font-family:fuenteSummer ;
+    src: url(Summer\ Farmhouse.otf);
+}
+
+body{
+    font-family: fuenteSummer;
+}
+p{
+    color: goldenrod;
+    width: 50%;
+    font-style: italic;
+}
+   
+.puntaje{
+    color: brown;
+}
